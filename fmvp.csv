@@ -1,0 +1,27 @@
+YEAR,PLAYER,POS,TEAM,FG%,PPG,RPG,APG,BLKPG
+2023,Nikola Jokic,C,Denver Nuggets,0.632,24.5,11.8,9.8,0.7
+2022,Stephen Curry,G,Golden State Warriors,0.437,25.5,5.2,6.3,0.4
+2021,Giannis Antetokounmpo,PF,Milwaukee Bucks,0.569,28.1,11.0,5.9,1.2
+2020,LeBron James,F,Los Angeles Lakers,0.493,25.3,7.8,10.2,0.5
+2019,Kawhi Leonard,F,Toronto Raptors,0.496,26.6,7.3,3.3,0.4
+2018,Kevin Durant,F,Golden State Warriors,0.516,26.4,6.8,5.4,1.8
+2017,Kevin Durant,F,Golden State Warriors,0.537,25.1,8.3,4.8,1.6
+2016,LeBron James,F,Cleveland Cavaliers,0.520,25.3,7.4,6.8,0.6
+2015,Andre Iguodala,F,Golden State Warriors,0.466,7.8,3.3,3.0,0.3
+2014,Kawhi Leonard,F,San Antonio Spurs,0.522,12.8,6.2,2.0,0.8
+2013,LeBron James,F,Miami Heat,0.565,26.8,8.0,7.3,0.9
+2012,LeBron James,F,Miami Heat,0.531,27.1,7.9,6.2,0.8
+2011,Dirk Nowitzki,F,Dallas Mavericks,0.517,23.0,7.0,2.6,0.6
+2010,Kobe Bryant,SG,Los Angeles Lakers,0.456,27.0,5.4,5.0,0.3
+2009,Kobe Bryant,SG,Los Angeles Lakers,0.467,26.8,5.2,4.9,0.4
+2008,Paul Pierce,SF,Boston Celtics,0.464,19.6,5.1,4.5,0.3
+2007,Tony Parker,G,San Antonio Spurs,0.520,18.6,3.2,5.5,0.1
+2006,Dwyane Wade,G,Miami Heat,0.495,27.2,5.7,6.7,0.8
+2005,Tim Duncan,C,San Antonio Spurs,0.496,20.3,11.1,2.7,2.6
+2004,Chauncey Billups,PG,Detroit Pistons,0.394,16.9,3.5,5.7,0.2
+2003,Tim Duncan,C,San Antonio Spurs,0.513,23.3,12.9,3.9,2.9
+2002,Shaquille O'Neal,C,Los Angeles Lakers,0.579,27.2,10.7,2.8,2.0
+2001,Shaquille O'Neal,C,Los Angeles Lakers,0.572,28.7,12.7,3.7,2.8
+2000,Shaquille O'Neal,C,Los Angeles Lakers,0.574,29.7,13.6,3.8,3.0
+1999,Tim Duncan,C,San Antonio Spurs,0.490,27.4,14.0,2.4,2.9
+1998,Michael Jordan,SG,Chicago Bulls,0.465,28.7,5.8,3.5,0.5
